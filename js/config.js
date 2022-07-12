@@ -50,7 +50,12 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/Tr1x0id.jpg",
+	"backgrounds/images/fon1.jpg",
+	"backgrounds/images/fon2.jpg",
+	"backgrounds/images/fon3.jpg",
+	"backgrounds/images/fon3.jpg",
+	"backgrounds/images/fon5.jpg",
+	"backgrounds/images/fon6.jpg"
 
 
 ];
@@ -105,8 +110,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Ожидайте",
 "Спасибо, что выбрали наш сервер!",
-"Владелец проекта - Tr1x0id",
 "Вступай к нам в дискорд!",
+"Отыгрывайте свою роль!",
 "Незабудь прочитать правила!"
 ];
 
