@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images\ktw.jpg";
+var l_serverImage = "images\ktww.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -103,10 +103,11 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Подключение к серверу",
-"Спасибо, что выбрал наш сервер!",
-"Владелец - Tr1x0id",
-"Вступай к нам в дискорд!"
+"Ожидайте",
+"Спасибо, что выбрали наш сервер!",
+"Владелец проекта - Tr1x0id",
+"Вступай к нам в дискорд!",
+"Незабудь прочитать правила!"
 ];
 
 /*Random message order?*/
