@@ -9,11 +9,11 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images\ktww.jpg";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Oid Role Play";
+var l_serverName = "OIDRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
