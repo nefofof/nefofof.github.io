@@ -73,7 +73,7 @@ var l_bgOverlay = false;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 50;
+var l_bgDarkening = 0;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
@@ -105,7 +105,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Подключение к серверу",
 "Спасибо, что выбрал наш сервер!",
-"Владелец - Tr1x0id"
+"Владелец - Tr1x0id",
+"Вступай к нам в дискорд!"
 ];
 
 /*Random message order?*/
