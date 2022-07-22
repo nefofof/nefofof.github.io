@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images\ktww.jpg";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -50,12 +50,7 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/fon1.jpg",
 	"backgrounds/images/fon2.jpg",
-	"backgrounds/images/fon3.jpg",
-	"backgrounds/images/fon3.jpg",
-	"backgrounds/images/fon5.jpg",
-	"backgrounds/images/fon6.jpg"
 
 
 ];
@@ -108,11 +103,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Ожидайте",
 "Спасибо, что выбрали наш сервер!",
 "Вступай к нам в дискорд!",
-"Отыгрывайте свою роль!",
-"Незабудь прочитать правила!"
+"Поддержать наш сервер вы можете в донат меню!"
 ];
 
 /*Random message order?*/
