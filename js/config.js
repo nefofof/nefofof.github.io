@@ -73,7 +73,7 @@ var l_bgOverlay = false;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 100;
+var l_bgDarkening = 90;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
