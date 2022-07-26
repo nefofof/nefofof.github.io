@@ -69,11 +69,11 @@ in milliseconds*/
 var l_bgImageFadeVelocity = 2000;
 
 /*Enable background overlay?*/
-var l_bgOverlay = true;
+var l_bgOverlay = false;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 0;
+var l_bgDarkening = 100;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
